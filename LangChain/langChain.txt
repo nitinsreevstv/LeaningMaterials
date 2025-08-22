@@ -1,0 +1,27 @@
+1. What is LangChain?
+- LangChain is a framework for building applications powered by large language models (LLMs) like GPT. 
+
+Instead of just prompts to an LLM, LangChain helps :- 
+- Structure workflows (chain steps together)
+- Connect data source (files, databases and APIs)
+- Remember context (Memory)
+- Call tools (Like Google serch, Calculator or your own function)
+- Build agents (AI that decides what action to take next)
+
+2. Why LangChain ?
+Without Langchain:
+- You'd manually handle prompts, responses, parsing and tools integrations.
+With LangChain:
+- You get a standaedized way to connecty models, tools and memory.
+- You can go from a chatbot -> to a reasoning agent -> to a production app faster.
+
+3. Core Concept in LangChain ?
+Here are the building blocks:
+- Models - The LLMs (Like OpenAI GPT, Anthropic, LLaMA, Local Models)
+- Prompts - Templates for structured inputs.
+- Chains - Sequence of calls (LLM -> processing -> another LLM)
+- Memory - Keep conversation history or context
+- Agents - Let the AI decide what tool/action to use
+- Tools - Functions/APIs like Google search, math or DB queries.
+- Retrieval - Pull data from vector databases (RAG = Retrieval-Augmented Generation)
+
