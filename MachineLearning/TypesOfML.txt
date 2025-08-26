@@ -1,0 +1,48 @@
+Types of Machine Learning 
+- Supervised Learning
+- Unsuperwised Learning
+- Reinforcement Learning
+
+
+
+Supervised learning :- In supervised learning, the machine learning algorithm learn from labelled data.
+
+Types of Supervised Learning
+1. Classification
+2. Regression
+
+
+Classification :- Classification is about predicting a class or discrete values.
+Example :- Find which one is dog or cat ? Train ML model with the multiple images of Dog and Cat.
+
+Regression :- Regression is about predicting a quantity or continuous values.
+
+
+Classification Algo :-
+1. Decision Tree Classification
+2. Random Forest Classification
+2. K-nearest Neighbor
+
+Regression Algo:-
+1. Logistic Regression
+2. Polynomial Regression
+3. Support Vector Machines
+
+
+
+Unsupervised Learning:- In Unsupervised learning, The ML algorithm learns from unlabbelled data.
+
+Ex :- Multiple data and ML will find the pattern and group them with same property.
+
+Types of Unsupervised Learning:-
+1. Clustering :- Clustering is an Unsupervised task which involves grouping the similar data points.
+
+2. Association :- Association is an unsupervised task that is used to find important relationship between data points.
+
+
+Algorithm for unsupervised learning:- 
+1. K-means Clustering
+2. Heirarchical Clustering
+3. Principal Component Analysis (PCA)
+4. Apriori
+5. Eclat
